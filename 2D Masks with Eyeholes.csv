@@ -1,0 +1,11 @@
+name;type;path
+1;mask;files/1.mp4
+2;mask;files/2.mp4
+3;mask;files/3.mp4
+4;mask;files/4.mp4
+5;mask;files/5.mp4
+6;print;files/6.mp4
+7;print;files/7.mp4
+8;print;files/8.mp4
+9;print;files/9.mp4
+10;print;files/10.mp4
